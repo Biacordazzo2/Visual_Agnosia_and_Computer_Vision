@@ -11,11 +11,11 @@ Visual agnosia is a rare condition characterized by the inability to recognize o
 2.	Use a pre-trained CNN for image classification.
 3.	Artificially induce visual agnosia and determine its effects on the CNN’s performance. 
 
-# Materials needed:
+# Materials needed
 1. Jupyter Notebook
 2. Python3
 
-# Steps to correctly run project implementation
+# Steps to run the implementation
 Two notebooks are provided above:
 1. Neuro140_FinalProject
 2. Initial Tests
