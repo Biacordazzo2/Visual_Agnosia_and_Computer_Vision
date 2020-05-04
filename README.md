@@ -12,8 +12,8 @@ Visual agnosia is a rare condition characterized by the inability to recognize o
 3.	Artificially induce visual agnosia and determine its effects on the CNN’s performance. 
 
 # Materials needed:
-1. Jupyter Notebook.
-2. Python3.
+1. Jupyter Notebook
+2. Python3
 
 # Steps to correctly run project implementation
 Two notebooks are provided above:
@@ -22,7 +22,7 @@ Two notebooks are provided above:
 The first one contains the main implementation of the final project while the second one contains initial tests performed to optimize the model's image classification performance. The second notebook is provided only for reference.
 
 All steps necessary to run the Neuro140_FinalProject notebook have been provided inside in chronological order. These steps include:
-- Downloading the CIFAR-10 dataset. 
+- Downloading and transforming the CIFAR-10 dataset. 
 - Optimizing the specified CNN - in this case ResNet18.
 - Inducing object agnosia by:
     - Weight Ablation
