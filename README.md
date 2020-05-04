@@ -20,12 +20,12 @@ Two notebooks are provided above:
 1. Neuro140_FinalProject
 2. Initial Tests
 
-The first one contains the main implementation of the final project while the second one contains initial tests performed to optimize the model's image classification performance. The second notebook is provided only for reference.
+The first one contains the main implementation of the project while the second one contains initial tests performed to optimize the model's image classification performance. The second notebook is provided only for reference.
 
-All steps necessary to run the Neuro140_FinalProject notebook have been provided inside in chronological order. These steps include:
+All steps necessary to run the Neuro140_FinalProject notebook have been provided inside, in chronological order. These steps include:
 - Downloading and transforming the CIFAR-10 dataset. 
 - Optimizing the specified CNN - in this case ResNet18.
-- Inducing object agnosia by:
+- Inducing object agnosia via:
     - Weight Ablation
     - Weight Augmentation
 - Plotting and analysis of results.
