@@ -1,5 +1,7 @@
 # Understanding Visual Agnosia with Computer Vision
-Final Project for Harvard College's Neuro140 - Biological and Artificial Intelligence. Learn more here: https://drive.google.com/file/d/1lUOtXDkiPSxIHDBkDmFP2s3exjtg8OVE/view?usp=sharing
+Final Project for Harvard College's Neuro140 - Biological and Artificial Intelligence. 
+
+Learn more here: https://drive.google.com/file/d/1lUOtXDkiPSxIHDBkDmFP2s3exjtg8OVE/view?usp=sharing
 
 # Introduction
 Visual agnosia is a rare condition characterized by the inability to recognize objects, faces, colors, or places. There are several types of visual agnosia, but here I focus on object agnosia; the inability to recognize or characterize visually presented objects. This condition is caused when certain brain pathways are damaged, sometimes as a result of stroke, head trauma, or inflammation of brain tissue. In order to study the virtual version of this human condition, a pre-trained CNN was used to perform image classification under normal and artificially induced conditions, simulating a healthy person and a patient with object agnosia, respectively. The results were analyzed to shed light into potential mechanisms or to identify interesting patterns behind this condition. 
