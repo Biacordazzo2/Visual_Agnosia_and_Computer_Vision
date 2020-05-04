@@ -15,7 +15,7 @@ Visual agnosia is a rare condition characterized by the inability to recognize o
 1. Jupyter Notebook.
 2. Python3.
 
-# How to run this project
+# Steps to correctly run project implementation
 Two notebooks are provided above:
 1. Neuro140_FinalProject
 2. Initial Tests
