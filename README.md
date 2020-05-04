@@ -19,6 +19,7 @@ Visual agnosia is a rare condition characterized by the inability to recognize o
 Two notebooks are provided above:
 1. Neuro140_FinalProject
 2. Initial Tests
+
 The first one contains the main implementation of the final project while the second one contains initial tests performed to optimize the model's image classification performance. The second notebook is provided only for reference.
 
 All steps necessary to run the Neuro140_FinalProject notebook have been provided inside in chronological order. These steps include:
